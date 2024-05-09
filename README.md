@@ -1,6 +1,8 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game</h1> 
 <h3>Name:SUJITHRA BKN
 <h3>Register Number: 212222230153
+<h3>Date:</h3>
+    
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game
